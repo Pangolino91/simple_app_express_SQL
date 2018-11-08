@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: aquamarine;
+  text-align: center
+}
+
+.titolo_main {
+  font-size: 56px;
+  color: red;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
