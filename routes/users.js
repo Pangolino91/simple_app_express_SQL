@@ -6,7 +6,7 @@ const bodyparse = require('body-parser');
 var mysqlconnection = mysql.createConnection({
   host     : 'gator3304.hostgator.com',
   user     : 'pangolin_enrico',
-  password : '*******',
+  password : 'pangolino99',
   database : 'pangolin_database'
 });
 
